@@ -1,6 +1,6 @@
-# Code Refactor Starter Code
-Horiseon Business Development
+# ASSIGNMENT 1
+#Horiseon Business Development
 
-A website 
+A website created to help businesses generate traffic through social media marketing.
 
-https://archer261.github.io/Horiseon/
+Website URL: https://archer261.github.io/Horiseon/

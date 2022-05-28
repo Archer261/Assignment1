@@ -73,17 +73,17 @@ p {
     margin-left: 25px;
 }
 
-.lower-half-content {
+.main-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.lower-half-content img   {
+.main-content img   {
     max-height: 200px;
 }
 
-.lower-half-content h2  {
+.main-content h2  {
     margin-bottom: 20px;
     font-size: 36px;
 }
