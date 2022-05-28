@@ -73,17 +73,17 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.lower-half-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content img   {
+.lower-half-content img   {
     max-height: 200px;
 }
 
-.content h2  {
+.lower-half-content h2  {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -115,7 +115,7 @@ p {
     color: var(--white);
 }
 
-.horison-content {
+.horiseon-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
